@@ -1,0 +1,14 @@
+*{
+    padding : 20px;
+}
+h1{
+    color: slateblue;
+}
+button{
+    border-style: none;
+}
+div{
+    margin-top: 20px;
+    width: 100px;
+    border: plum solid 1px;
+}
